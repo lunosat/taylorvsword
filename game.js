@@ -5,10 +5,10 @@ canvas.width = 800;
 canvas.height = 600;
 
 const playerImg = new Image();
-playerImg.src = 'taylor.png';
+playerImg.src = 'kanye.png';
 
 const enemyImg = new Image();
-enemyImg.src = 'kanye.png';
+enemyImg.src = 'taylor.png';
 
 
 class Player {
